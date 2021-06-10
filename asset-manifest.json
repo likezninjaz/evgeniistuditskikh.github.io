@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/likezninjaz/evgeniistuditskikh.github.io/evgeniistuditskikh/static/css/main.5fd70280.chunk.css",
+    "main.js": "/likezninjaz/evgeniistuditskikh.github.io/evgeniistuditskikh/static/js/main.a5478ed4.chunk.js",
+    "main.js.map": "/likezninjaz/evgeniistuditskikh.github.io/evgeniistuditskikh/static/js/main.a5478ed4.chunk.js.map",
+    "runtime-main.js": "/likezninjaz/evgeniistuditskikh.github.io/evgeniistuditskikh/static/js/runtime-main.c7d5e3b8.js",
+    "runtime-main.js.map": "/likezninjaz/evgeniistuditskikh.github.io/evgeniistuditskikh/static/js/runtime-main.c7d5e3b8.js.map",
+    "static/js/2.260bf866.chunk.js": "/likezninjaz/evgeniistuditskikh.github.io/evgeniistuditskikh/static/js/2.260bf866.chunk.js",
+    "static/js/2.260bf866.chunk.js.map": "/likezninjaz/evgeniistuditskikh.github.io/evgeniistuditskikh/static/js/2.260bf866.chunk.js.map",
+    "static/js/3.a52016dd.chunk.js": "/likezninjaz/evgeniistuditskikh.github.io/evgeniistuditskikh/static/js/3.a52016dd.chunk.js",
+    "static/js/3.a52016dd.chunk.js.map": "/likezninjaz/evgeniistuditskikh.github.io/evgeniistuditskikh/static/js/3.a52016dd.chunk.js.map",
+    "index.html": "/likezninjaz/evgeniistuditskikh.github.io/evgeniistuditskikh/index.html",
+    "static/css/main.5fd70280.chunk.css.map": "/likezninjaz/evgeniistuditskikh.github.io/evgeniistuditskikh/static/css/main.5fd70280.chunk.css.map",
+    "static/js/2.260bf866.chunk.js.LICENSE.txt": "/likezninjaz/evgeniistuditskikh.github.io/evgeniistuditskikh/static/js/2.260bf866.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/likezninjaz/evgeniistuditskikh.github.io/evgeniistuditskikh/static/media/background.15f3265e.jpeg",
+    "static/media/photo.2d21f0b0.jpeg": "/likezninjaz/evgeniistuditskikh.github.io/evgeniistuditskikh/static/media/photo.2d21f0b0.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7d5e3b8.js",
+    "static/js/2.260bf866.chunk.js",
+    "static/css/main.5fd70280.chunk.css",
+    "static/js/main.a5478ed4.chunk.js"
+  ]
+}
