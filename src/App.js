@@ -24,12 +24,16 @@ function App() {
           </div>
         </div>
         <div className="actions">
-          <a href="https://www.linkedin.com/in/evgeniy-studitskikh">
-            Download CV
-          </a>
-          <a href="mailto:estrueall@gmail.com">
-            Contact me
-          </a>
+          <div>
+            <a href="https://www.linkedin.com/in/evgeniy-studitskikh">
+              Download CV
+            </a>
+          </div>
+          <div>
+            <a href="mailto:estrueall@gmail.com">
+              Contact me
+            </a>
+          </div>
         </div>
       </div>
     </div>
